@@ -1,0 +1,18 @@
+C:\Users\PC\Desktop\Projets pour dotnet irc\chat-app\src\Server\Server\bin\Debug\Server.exe.config
+C:\Users\PC\Desktop\Projets pour dotnet irc\chat-app\src\Server\Server\bin\Debug\Server.exe
+C:\Users\PC\Desktop\Projets pour dotnet irc\chat-app\src\Server\Server\bin\Debug\Server.pdb
+C:\Users\PC\Desktop\Projets pour dotnet irc\chat-app\src\Server\Server\obj\Debug\Server.Server.resources
+C:\Users\PC\Desktop\Projets pour dotnet irc\chat-app\src\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\PC\Desktop\Projets pour dotnet irc\chat-app\src\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Projets pour dotnet irc\chat-app\src\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Projets pour dotnet irc\chat-app\src\Server\Server\obj\Debug\Server.exe
+C:\Users\PC\Desktop\Projets pour dotnet irc\chat-app\src\Server\Server\obj\Debug\Server.pdb
+C:\Users\PC\Desktop\Projet 2 dotnet\Server\Server\bin\Debug\Server.exe.config
+C:\Users\PC\Desktop\Projet 2 dotnet\Server\Server\bin\Debug\Server.exe
+C:\Users\PC\Desktop\Projet 2 dotnet\Server\Server\bin\Debug\Server.pdb
+C:\Users\PC\Desktop\Projet 2 dotnet\Server\Server\obj\Debug\Server.Server.resources
+C:\Users\PC\Desktop\Projet 2 dotnet\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\PC\Desktop\Projet 2 dotnet\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Projet 2 dotnet\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Projet 2 dotnet\Server\Server\obj\Debug\Server.exe
+C:\Users\PC\Desktop\Projet 2 dotnet\Server\Server\obj\Debug\Server.pdb
